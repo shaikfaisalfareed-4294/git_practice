@@ -1,3 +1,0 @@
-john 22
-peter 21
-hugo 24
